@@ -1,4 +1,4 @@
-### Hi there 👋
+![Pwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwo&hide=contribs,prs)
 
 <!--
 **TheTrustyPwo/TheTrustyPwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
