@@ -1,4 +1,9 @@
-[![TheTrustyPwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTrustyPwo&count_private=true&show_icons=true)](https://github.com/TheTrustyPwo/TheTrustyPwo/blob/master/README.md)
+<a href="https://github.com/TheTrustyPwo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheTrustyPwo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)" />
+</a>
+<a href="https://github.com/TheTrustyPwo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=onedark" />
+</a>
 
 <!--
 **TheTrustyPwo/TheTrustyPwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
