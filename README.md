@@ -29,4 +29,5 @@ Databases
 <img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-4B8BF2?style=flat&logo=mysql&logoColor=white" /> <img alt="SQLite" align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" /> <img alt="Postgres" align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /> <img alt="MongoDB" align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
 
 Contact
+
 TheTrustyPwo - Pwo#0001 - thetrustypwo@gmail.com
