@@ -1,4 +1,4 @@
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=TheTrustyPwo.TheTrustyPwo&color=6a0094&text=Visitors&style=flat&logo=falcon">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=TheTrustyPwo.TheTrustyPwo&color=FFA500&text=Visitors&style=flat&logo=falcon">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheTrustyPwo&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&icon_color=fff&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
