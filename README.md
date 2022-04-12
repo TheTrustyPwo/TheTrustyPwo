@@ -6,7 +6,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=TheTrustyPwo&theme=great-gatsby&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=TheTrustyPwo&bg_color=000000&color=FFA500&line=FFA500&point=ffffff&area=true&hide_border=true">
+<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=TheTrustyPwo&bg_color=000000&color=FFA500&line=FFA500&point=FFFF00&area=true&hide_border=true">
 
 Hi 👋, I am TheTrustyPwo, or you can call me Pwo for short.
 
