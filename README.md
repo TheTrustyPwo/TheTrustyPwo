@@ -1,8 +1,8 @@
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=TheTrustyPwo.TheTrustyPwo&color=FFA500&text=Visitors&style=flat&logo=falcon">
 
-<img width="50%" align="right" src="https://github-readme-stats-1b00ul2yg-steeldragon960.vercel.app/api?username=TheTrustyPwo&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheTrustyPwo&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&icon_color=fff&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats-1b00ul2yg-steeldragon960.vercel.app/api/top-langs?username=TheTrustyPwo&theme=great-gatsby&layout=compact&hide_border=true&langs_count=25">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheTrustyPwo&theme=great-gatsby&layout=compact&hide_border=true&langs_count=25">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=TheTrustyPwo&theme=great-gatsby&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
