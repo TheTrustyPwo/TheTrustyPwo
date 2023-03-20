@@ -20,7 +20,7 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,nodejs,java,kotlin,html,css,js,cpp,lua,r,dart,flutter,mysql,sqlite,mongodb,postgres,regex,gcp,azure,flask,androidstudio,idea,vscode,figma,tensorflow,pytorch,linux" alt="skills logos" /> <br>
@@ -36,7 +36,7 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=TheTrustyPwo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=TheTrustyPwo&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats-ld1b.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
@@ -51,7 +51,7 @@
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/TheTrustyPwo/ZBSchools-Macro" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheTrustyPwo&theme=radical&repo=ZBSchools-Macro" width="49%" alt="ZBSchools-Macro"/>
+    <img src="https://github-readme-stats-ld1b.vercel.app/api/pin/?username=TheTrustyPwo&theme=radical&repo=ZBSchools-Macro" width="49%" alt="ZBSchools-Macro"/>
   </a>
 </div>
 
