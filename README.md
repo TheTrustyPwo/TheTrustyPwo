@@ -50,8 +50,8 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/TheTrustyPwo/ZBSchools-Macro" target="_blank">
-    <img src="https://github-readme-stats-ld1b.vercel.app/api/pin/?username=TheTrustyPwo&theme=radical&repo=ZBSchools-Macro" width="49%" alt="ZBSchools-Macro"/>
+  <a href="https://github.com/TheTrustyPwo/StudyHub" target="_blank">
+    <img src="https://github-readme-stats-ld1b.vercel.app/api/pin/?username=TheTrustyPwo&theme=radical&repo=StudyHub" width="49%" alt="StudyHub"/>
   </a>
 </div>
 
