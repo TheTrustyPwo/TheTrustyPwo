@@ -13,7 +13,7 @@
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   
   <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
 
@@ -27,19 +27,18 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=TheTrustyPwo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheTrustyPwo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 
   <img align="top" src="https://streak-stats.demolab.com?user=TheTrustyPwo&theme=radical" width="49%" height="195px" alt="streaks graph" />
   <img align="top" src="https://github-readme-stats-ld1b.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true" width="49%" height="195px" alt="stats graph" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2> 📬 Contact <img src="./assets/borderseparator.gif"/></h2><br>
-
-</div>
+</div> -->
 
 <br>
 
