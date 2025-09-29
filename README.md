@@ -33,17 +33,19 @@
     <table role="presentation" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td align="center">
-          <img src="https://streak-stats.demolab.com?user=TheTrustyPwo&theme=radical"
-               alt="streaks graph" height="195">
+          <img
+            src="https://streak-stats.demolab.com?user=TheTrustyPwo&theme=radical&hide_border=true"
+            alt="streaks graph" height="195">
         </td>
+        <td style="width:8px"></td> <!-- tiny gap -->
         <td align="center">
-          <img src="https://github-readme-stats-ld1b.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true"
-               alt="stats graph" height="195">
+          <img
+            src="https://github-readme-stats-ld1b.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true&hide_border=true"
+            alt="stats graph" height="195">
         </td>
       </tr>
     </table>
   </div>
-
 </div>
 
 <br>
