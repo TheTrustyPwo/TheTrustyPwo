@@ -30,19 +30,20 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=TheTrustyPwo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div align="center">
-    <table>
+    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td>
+        <td align="center">
           <img src="https://streak-stats.demolab.com?user=TheTrustyPwo&theme=radical"
                alt="streaks graph" height="195">
         </td>
-        <td>
+        <td align="center">
           <img src="https://github-readme-stats-ld1b.vercel.app/api?username=TheTrustyPwo&theme=radical&show_icons=true&count_private=true"
                alt="stats graph" height="195">
         </td>
       </tr>
     </table>
   </div>
+
 </div>
 
 <br>
